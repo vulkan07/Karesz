@@ -1,0 +1,15 @@
+{
+	"subjects": 
+	[
+		["matek", "matematika"],
+		["média"],
+		["magyar", "magyar nyelv"],
+		["angol", "angol nyelv"],
+		["tesi", "testnevelés"],
+		["digitális kultúra", "digitális kult.", "informatika"],
+		["ofő","osztályfőnöki"],
+		["fizika szaknyelv","matek szaknyelv", "matematika szaknyelv"],
+		["földrajz szaknyelv", "föci szaknyelv", "földrajz"],
+		["történelem szaknyelv", "töri szaknyelv", "töri"]
+	]
+}

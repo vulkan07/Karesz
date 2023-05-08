@@ -1,0 +1,433 @@
+{
+	"Teachers":{
+		"PAA":"Padányi Ádám",
+		"FEB":"Ferencei Boglárka",
+		"VAR":"Varró Anna",
+		"TÖR":"Török Dóra",
+		"KIL":"Kila József",
+		"LÉP":"Lépesfalvi",
+		"FEK":"Fekete Mónika",
+		"AMY":"Amy",
+		"ABV":"Ábrányi Vivien",
+		"KOJ":"Kovács Gábor",
+		"KED":"Kerekes Dorottya",
+		"KOR":"Koritár Attila",
+		"BEB":"Boros Bettina",
+		"HUT":"Hutai László",
+		"DOT":"Kalotai Dóra",
+		"JOS":"Joshua Butt",
+		"FOG":"Fogas Lívia",
+		"ZÁD":"Zádori Krisztina",
+		"NMR":"Nemes Mária",
+		"SÓS":"Sóspataki Tünde",
+		"HNK":"Novák Katalin",
+		
+		"KLP":"Kila & Lépesfalvi"
+	},
+	"Table": {
+		"Monday": {
+			"1":{
+				"Info":{
+					"subject":"Matek",
+					"teacher":"PAA",
+					"room":"213"
+				},
+				"Media":{
+					"subject":"Média",
+					"teacher":"FEB",
+					"room":"207"
+				}
+			},
+			"2":{
+				"Info":{
+					"subject":"Magyar",
+					"teacher":"VAR",
+					"room":"206"
+				},
+				"Media":{
+					"subject":"Matek",
+					"teacher":"PAA",
+					"room":"213"
+				}
+			},
+			"3":{
+				"All":{
+					"subject":"Ofő",
+					"room":"213",
+					"teacher":"TÖR"
+				}
+			},
+			"4":{
+				"All":{
+					"subject":"Tesi",
+					"room":"63",
+					"teacher":"KLP"
+				}
+			},
+			"5":{
+				"Halado":{
+					"subject":"Angol",
+					"teacher":"TÖR",
+					"room":"206"
+				},
+				"Kezdo":{
+					"subject":"Angol",
+					"teacher":"FEK",
+					"room":"207"
+				}
+			},
+			"6":{
+				"Halado":{
+					"subject":"Angol",
+					"teacher":"AMY",
+					"room":"206"
+				},
+				"Kezdo":{
+					"subject":"Angol",
+					"teacher":"ABV",
+					"room":"207"
+				}
+			},
+			"7":{
+				"Halado":{
+					"subject":"Angol",
+					"teacher":"TÖR",
+					"room":"206"
+				},
+				"Kezdo":{
+					"subject":"Angol",
+					"teacher":"ABV",
+					"room":"207"
+				}
+			},
+			"lunch":5
+		},
+		
+		"Tuesday": {
+			"1":{
+				"Halado":{
+					"subject":"Angol",
+					"teacher":"KOJ",
+					"room":"206"
+				},
+				"Kezdo":{
+					"subject":"Angol",
+					"teacher":"KED",
+					"room":"207"
+				}
+			},
+			"2":{
+				"Halado":{
+					"subject":"Angol",
+					"teacher":"KOJ",
+					"room":"206"
+				},
+				"Kezdo":{
+					"subject":"Angol",
+					"teacher":"KED",
+					"room":"207"
+				}
+			},
+			"3":{
+				"Halado":{
+					"subject":"Angol",
+					"teacher":"KED",
+					"room":"206"
+				},
+				"Kezdo":{
+					"subject":"Angol",
+					"teacher":"FEK",
+					"room":"207"
+				}
+			},
+			"4":{
+				"Info":{
+					"subject":"Matek",
+					"teacher":"PAA",
+					"room":"206"
+				},
+				"Media":{
+					"subject":"Digitális Kultúra",
+					"teacher":"KOR",
+					"room":"35"
+				}
+			},
+			"5":{
+				"All":{
+					"subject":"Angol",
+					"room":"206",
+					"teacher":"AMY"
+				}
+			},
+			"6":{
+				"All":{
+					"subject":"Tesi",
+					"room":"63",
+					"teacher":"KLP"
+				}
+			},
+			"lunch":6
+		},
+		
+		"Wednesday": {
+			"1":{
+				"Halado":{
+					"subject":"Angol",
+					"teacher":"BEB",
+					"room":"206"
+				},
+				"Kezdo":{
+					"subject":"Angol",
+					"teacher":"FEK",
+					"room":"207"
+				}
+			},
+			"2":{
+				"All":{
+					"subject":"Tesi",
+					"room":"63",
+					"teacher":"KLP"
+				}
+			},
+			"3":{
+				"Halado":{
+					"subject":"Angol",
+					"teacher":"KED",
+					"room":"206"
+				},
+				"Kezdo":{
+					"subject":"Angol",
+					"teacher":"TÖR",
+					"room":"207"
+				}
+			},
+			"4":{
+				"Info":{
+					"subject":"Digitális Kultúra",
+					"teacher":"FOG",
+					"room":"35"
+				},
+				"Media":{
+					"subject":"Digitális Kultúra",
+					"teacher":"KOR",
+					"room":"34"
+				}
+			},
+			"5":{
+				"Info":{
+					"subject":"Digitális Kultúra",
+					"teacher":"FOG",
+					"room":"35"
+				},
+				"Media":{
+					"subject":"Digitális Kultúra",
+					"teacher":"KOR",
+					"room":"34"
+				}
+			},
+			"6":{
+				"Halado":{
+					"subject":"Angol",
+					"teacher":"TÖR",
+					"room":"206"
+				},
+				"Kezdo":{
+					"subject":"Angol",
+					"teacher":"JOS",
+					"room":"207"
+				}
+			},
+			"7":{
+				"Info":{
+					"subject":"Fizika Szaknyelv",
+					"teacher":"SÓS",
+					"room":"206"
+				},
+				"Media":{
+					"subject":"Magyar",
+					"teacher":"ZÁD",
+					"room":"207"
+				}
+			},
+			"lunch":5
+		},
+		
+		"Thursday": {
+			"0":{
+				"All":{
+					"subject":"Tesi",
+					"room":"63",
+					"teacher":"KLP"
+				}
+			},
+			"1":{
+				"Info":{
+					"subject":"Magyar",
+					"teacher":"VAR",
+					"room":"213"
+				},
+				"Media":{
+					"subject":"Fizika Szaknyelv",
+					"teacher":"SÓS",
+					"room":"207"
+				}
+			},
+			"2":{
+				"Halado":{
+					"subject":"Angol",
+					"teacher":"BEB",
+					"room":"206"
+				},
+				"Kezdo":{
+					"subject":"Angol",
+					"teacher":"FEB",
+					"room":"207"
+				}
+			},
+			"3":{
+				"Info":{
+					"subject":"Földrajz Szaknyelv",
+					"teacher":"HUT",
+					"room":"225"
+				},
+				"Media":{
+					"subject":"Magyar",
+					"teacher":"ZÁD",
+					"room":"206"
+				}
+			},
+			"4":{
+				"Halado":{
+					"subject":"Angol",
+					"teacher":"AMY",
+					"room":"206"
+				},
+				"Kezdo":{
+					"subject":"Angol",
+					"teacher":"HNK",
+					"room":"207"
+				}
+			},
+			"5":{
+				"Info":{
+					"subject":"Matek",
+					"teacher":"PAD",
+					"room":"206"
+				},
+				"Media":{
+					"subject":"Földrajz Szaknyelv",
+					"teacher":"HUT",
+					"room":"225"
+				}
+			},
+			"6":{
+				"Halado":{
+					"subject":"Történelem Szaknyelv",
+					"teacher":"DOT",
+					"room":"208"
+				},
+				"Kezdo":{
+					"subject":"Angol",
+					"teacher":"FEK",
+					"room":"207"
+				}
+			},
+			"7":{
+				"Halado":{
+					"subject":"Angol",
+					"teacher":"AMY",
+					"room":"206"
+				},
+				"Kezdo":{
+					"subject":"Angol",
+					"teacher":"FEK",
+					"room":"207"
+				}
+			},
+			"lunch":5
+		},
+		
+		"Friday": {
+			"0":{
+				"All":{
+					"subject":"Tesi",
+					"room":"63",
+					"teacher":"KLP"
+				}
+			},
+			"1":{
+				"Halado":{
+					"subject":"Angol",
+					"teacher":"FEK",
+					"room":"206"
+				},
+				"Kezdo":{
+					"subject":"Angol",
+					"teacher":"FEB",
+					"room":"207"
+				}
+			},
+			"2":{
+				"Halado":{
+					"subject":"Angol",
+					"teacher":"TÖR",
+					"room":"206"
+				},
+				"Kezdo":{
+					"subject":"Angol",
+					"teacher":"FEK",
+					"room":"207"
+				}
+			},
+			"3":{
+				"Halado":{
+					"subject":"Angol",
+					"teacher":"TÖR",
+					"room":"206"
+				},
+				"Kezdo":{
+					"subject":"Angol",
+					"teacher":"FEK",
+					"room":"207"
+				}
+			},
+			"4":{
+				"Info":{
+					"subject":"Digitális Kultúra",
+					"teacher":"FOG",
+					"room":"35"
+				},
+				"Media":{
+					"subject":"Matek",
+					"teacher":"PAD",
+					"room":"206"
+				}
+			},
+			"5":{
+				"Info":{
+					"subject":"Digitális Kultúra",
+					"teacher":"FOG",
+					"room":"35"
+				},
+				"Media":{
+					"subject":"Média",
+					"teacher":"FEB",
+					"room":"207"
+				}
+			},
+			"6":{
+				"Halado":{
+					"subject":"Angol",
+					"teacher":"TÖR",
+					"room":"206"
+				},
+				"Kezdo":{
+					"subject":"Angol",
+					"teacher":"JOS",
+					"room":"207"
+				}
+			},
+			"lunch":4
+		}
+	}
+}
